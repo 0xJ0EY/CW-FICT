@@ -2,7 +2,6 @@
 
 $binlen = 8; # Bits that are required for hex decimal
 $binary = (string) file_get_contents('./binary.txt');
-$output = "";
 
 $filename = './challenge.txt.gz';
 
